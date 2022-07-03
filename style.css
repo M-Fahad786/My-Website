@@ -1,0 +1,39 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box{
+    background-color: rgb(211, 32, 32);
+    overflow: hidden;
+
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    font-size: 1.4em;
+   
+}
+.links a:hover{
+    background-color: rgb(233, 233, 233);
+    color: black;
+}
+.active{
+    background-color: black;
+    color: white;
+}
+
+table{
+ margin-left: auto;
+ margin-right: auto;
+ padding:30px;
+ width:50%;
+ height: 30%;
+}
